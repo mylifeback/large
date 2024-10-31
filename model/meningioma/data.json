@@ -1,0 +1,18 @@
+{
+  "title": "meningioma", 
+  "topic": "large meningioma",
+  "models": [
+    ["tumour", "red", 1.0, "tumour"], 
+    ["veins", "blue", 1.0, "thickVeins"],
+    ["lesion", "red", 1.0],
+    ["skin", "green", 0.7],
+    ["dura", "blue", 0.8, "1"],
+    ["opening", "purple", 0.8, "2"],
+    ["half", "green", 0.8, "3"],
+    ["marker", "white", 0.8, "4"]
+    ],
+  "mode": "model"
+
+
+    
+}
