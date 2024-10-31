@@ -1,6 +1,6 @@
 {
   "title": "aneurysm", 
-  "topic": "cavernous segment aneurysm"
+  "topic": "cavernous segment aneurysm",
   "models": [
     ["lesion", "red", 1.0], 
     ["skin", "green", 0.7]
