@@ -5,7 +5,8 @@
     ["tumour", "red", 1.0], 
     ["skin", "green", 0.7],
     ["veins", "blue", 1.0, "thickVeins"]
-  ]
+  ],
+  "mode": "model"
 
 
     
