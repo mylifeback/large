@@ -1,9 +1,9 @@
 {
-  "title": "meningioma", 
-  "topic": "large meningioma",
+  "title": "craniotomy", 
+  "topic": "CT after craniotomy",
   "models": [
-    ["tumour", "red", 1.0, "tumour"], 
-    ["veins", "blue", 1.0, "thickVeins"]
+    ["bone", "red", 1.0], 
+    ["skin", "green", 0.7]
   ],
   "mode": "model"
 

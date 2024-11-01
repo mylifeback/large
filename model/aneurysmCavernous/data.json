@@ -1,8 +1,8 @@
 {
-  "title": "craniotomy", 
-  "topic": "CT after craniotomy",
+  "title": "aneurysm", 
+  "topic": "aneurysm inside cavernous sinus",
   "models": [
-    ["bone", "red", 1.0], 
+    ["lesion", "red", 1.0], 
     ["skin", "green", 0.7]
   ],
   "mode": "model"
