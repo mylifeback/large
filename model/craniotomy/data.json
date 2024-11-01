@@ -1,0 +1,12 @@
+{
+  "title": "meningioma", 
+  "topic": "large meningioma",
+  "models": [
+    ["tumour", "red", 1.0, "tumour"], 
+    ["veins", "blue", 1.0, "thickVeins"]
+  ],
+  "mode": "model"
+
+
+    
+}
