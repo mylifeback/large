@@ -1,8 +1,8 @@
 {
-  "title": "aneurysm", 
-  "topic": "cavernous segment aneurysm",
+  "title": "craniotomy", 
+  "topic": "CT after craniotomy",
   "models": [
-    ["lesion", "red", 1.0], 
+    ["bone", "red", 1.0], 
     ["skin", "green", 0.7]
   ],
   "mode": "model"
